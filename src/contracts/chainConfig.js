@@ -16,12 +16,12 @@ const chains = {
   },
   ETH: {
     id: 2,
-    icon: IconEth,
-    name: "Sepolia Testnet",
-    chainId: 11155111,
-    configModule: ConfigModuleEth,
-    payWith: "ETH",
-    title: "Buy on ETH",
+    icon: IconBnb,
+    name: "BNB Smart Chain",
+    chainId: 56,
+    configModule: ConfigModuleBnb,
+    payWith: "BNB",
+    title: "Buy on BNB",
   },
 };
 

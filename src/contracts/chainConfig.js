@@ -6,15 +6,6 @@ import IconBnb from "../assets/images/token/bnb.png";
 
 const chains = {
   BNB: {
-    id: 1,
-    icon: IconBnb,
-    name: "BNB Smart Chain",
-    chainId: 56,
-    configModule: ConfigModuleBnb,
-    payWith: "BNB",
-    title: "Buy on BNB",
-  },
-  ETH: {
     id: 2,
     icon: IconBnb,
     name: "BNB Smart Chain",

@@ -35,6 +35,9 @@ const Banner = () => {
     <BannerWrapper>
       <div className="presale-card-wrapper">
         <div className="presale-card">
+          <div className="presale-card-header">
+            <ConnectWalletButton variant="v6" />
+          </div>
 
           <div className="presale-card-counter">
             <Countdown endDate={stageEnd} font="title2" />

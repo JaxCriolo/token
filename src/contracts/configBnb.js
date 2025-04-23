@@ -5,7 +5,7 @@ import TokenContractAbi from "./TokenContractAbi.json";
 import PresaleContractAbi from "./PresaleContractAbi.json";
 
 //network link
-export const networkLink = "https://bscscan.com/tx/";
+export const networkLink = "https://testnet.bscscan.com/tx/";
 
 //token contract address
 const tokenContractAddress = "0xD6F59C74Aad466C3e85a883bb205F4a2a4cD3d9D";
@@ -14,7 +14,7 @@ const tokenContractAddress = "0xD6F59C74Aad466C3e85a883bb205F4a2a4cD3d9D";
 export const presaleContractAddress = "0xf8C75bE5d993fd54582ea95CDb6a983c379a2c04";
 
 //contract chainid
-const contractChainId = 56;
+const contractChainId = 97;
 
 //token contract configuration
 export const tokenContractConfig = {
